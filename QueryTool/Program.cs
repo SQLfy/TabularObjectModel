@@ -8,7 +8,7 @@ namespace QueryTool
         static void Main(string[] args)
         {
             /*******************************************************
-                Define Connection
+                Define Connection -- https://dax.tips/2020/08/24/using-visual-studio-code-to-query-power-bi/
             *******************************************************/
  
             AdomdConnection adomdConnection = new AdomdConnection("Data Source=localhost:59473");
